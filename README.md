@@ -24,7 +24,7 @@ An engineer who aims to push themselves further every day. My primary focus is o
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/keremcankoc">
+  <a href="https://www.linkedin.com/in/keremcankoc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
